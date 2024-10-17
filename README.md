@@ -1,4 +1,4 @@
-# DATA-512 Homework 1: Wikipedia Pageview Data Collection and Analysis
+# DWikipedia Pageview Data Collection and Analysis
 
 ## Project Goal
 
