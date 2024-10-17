@@ -1,4 +1,4 @@
-# DWikipedia Pageview Data Collection and Analysis
+# Wikipedia Pageview Data Collection and Analysis
 
 ## Project Goal
 
